@@ -9,3 +9,9 @@
     <title>Recipe Project</title>
 </head>
 <body>
+
+<div id="menu">
+    <ul>
+        <li><a href="index">Home Page</a></li>
+    </ul>
+</div>
