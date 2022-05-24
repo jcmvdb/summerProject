@@ -15,3 +15,6 @@
         <li><a href="index">Home Page</a></li>
     </ul>
 </div>
+
+<?php
+    require "db/DB.php";

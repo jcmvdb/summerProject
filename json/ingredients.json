@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "ingredient": "cheese",
+    "voedingsWaarde": [
+      {
+        "": ""
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "ingredient": "milk",
+    "voedingsWaarde": [
+      {
+        "": ""
+      }
+    ]
+  }
+]
