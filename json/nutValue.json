@@ -1,0 +1,11 @@
+[
+    {
+        "id" : "1",
+        "values" : [
+            {
+            "protein" : "5",
+            "carbohydrates" : "100"
+            }
+        ]
+    }
+]
