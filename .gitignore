@@ -1,2 +1,3 @@
 .idea
-db/DB.php
+db/
+/.DS_Store
